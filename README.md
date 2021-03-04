@@ -1,8 +1,8 @@
 # Getting Started
 
-Welcome to your new project.
+Welcome to LetsTrack CAP APP.
 
-It contains these folders and files, following our recommended project layout:
+It contains these folders and files, following this project layout:
 
 File or Folder | Purpose
 ---------|----------
