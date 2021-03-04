@@ -1,8 +1,10 @@
-# Getting Started
+# LetsTrackCAP
 
 Welcome to LetsTrack CAP APP.
 
-It contains these folders and files, following this project layout:
+The scope of this application is to expose data contained in the database with OData v4.
+
+The project contains these folders and files, following this layout:
 
 File or Folder | Purpose
 ---------|----------
